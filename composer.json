@@ -19,7 +19,7 @@
     "require": {
         "php": ">=7.1",
         "illuminate/support": "5.*",
-        "crispchat/php-crisp-api": "^1.4"
+        "crispchat/php-crisp-api": "^1.5"
     },
     "autoload": {
         "psr-4": {
